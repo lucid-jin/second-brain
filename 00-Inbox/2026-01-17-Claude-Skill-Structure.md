@@ -105,6 +105,18 @@ obsidian/
 - 참조 파일이 너무 많아지면 관리가 어려워지지 않을까?
 - 적정 분리 개수는? (3-5개 정도가 적당해 보임)
 
+### 의문점 답변
+**Q: 파일이 너무 많으면 관리 어렵지 않나?**
+- 맞음, 그래서 적정 개수 유지가 중요
+- 권장: **3-5개** (SKILL.md + 참조 2-3개)
+- 넘으면: 파일들을 다시 통합하거나 카테고리 재조정
+
+**Q: 적정 분리 개수는?**
+- 3-5개가 딱 좋음 (당신의 생각이 정확함)
+- 예시 (obsidian 스킬): SKILL.md + READ.md + WRITE.md = 3개 ✅
+- 더 필요하면: 카테고리별로 다시 나누기 (예: read-advanced.md)
+
 ## 연결
-- 관련 노트: [[2026-01-17-Claude-Code-Skills]], [[Progressive Disclosure]], [[Lazy Loading]]
+- 관련 노트: [[2026-01-17-Claude-Code-Skills]], [[2026-01-17-Claude-Code-Plugins]], [[Progressive Disclosure]], [[Lazy Loading]]
+- 다음 읽기: [[2026-01-17-Claude-Code-Plugins|스킬을 플러그인으로 패키징하기]]
 - 참고: Claude Code 공식 스킬 가이드

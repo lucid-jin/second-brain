@@ -1,0 +1,7 @@
+# 비공개 노트 (GitHub에 올라가지 않음)
+private/
+
+# 옵시디언 시스템 파일
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
