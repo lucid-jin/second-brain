@@ -11,13 +11,14 @@
             "id": "7086e23ad9f251c7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-01-17-Obsidian-Knowledge-Management"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 2026-01-17-Obsidian-Knowledge-Management"
             }
           },
           {
@@ -182,9 +183,9 @@
   },
   "active": "7086e23ad9f251c7",
   "lastOpenFiles": [
+    "Untitled.base",
     "00-Inbox/Obsidian-Knowledge-Management.md",
     "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
-    "Untitled.base",
     "Untitled.canvas",
     "무제.base",
     "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
