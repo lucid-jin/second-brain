@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
+                "file": "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-17-Claude-Code-Plugins"
+              "title": "2026-01-17-Claude-Skill-Structure"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#claude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Backlinks for 2026-01-17-Claude-Skill-Structure"
             }
           },
           {
@@ -183,8 +185,8 @@
   "active": "7086e23ad9f251c7",
   "lastOpenFiles": [
     "00-Inbox/2026-01-17-Claude-Code-Skills.md",
-    "Lazy Loading.md",
     "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
+    "Lazy Loading.md",
     "README.md",
     "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
     "Claude Code.md",
