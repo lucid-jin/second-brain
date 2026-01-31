@@ -1,6 +1,7 @@
 ---
 created: 2026-01-17
-related: [[2026-01-17-Claude-Code-Skills]]
+related:
+  - "[[2026-01-17-Claude-Code-Skills]]"
 status: complete
 ---
 

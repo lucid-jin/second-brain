@@ -1,6 +1,10 @@
 ---
 created: 2026-01-31
-related: [[IntelliJ-WebStorm]], [[Chrome]], [[Ghostty]], [[Raycast]]
+related:
+  - "[[IntelliJ-WebStorm]]"
+  - "[[Chrome]]"
+  - "[[Ghostty]]"
+  - "[[Raycast]]"
 status: complete
 ---
 

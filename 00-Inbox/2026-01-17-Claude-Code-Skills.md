@@ -1,6 +1,8 @@
 ---
 created: 2026-01-17
-related: [[Claude Code]], [[AI 도구]]
+related:
+  - "[[Claude Code]]"
+  - "[[AI 도구]]"
 status: complete
 ---
 

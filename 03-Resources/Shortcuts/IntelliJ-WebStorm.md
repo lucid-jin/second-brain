@@ -1,6 +1,10 @@
 ---
 created: 2026-01-31
-related: [[macOS]], [[Chrome]], [[Ghostty]], [[Raycast]]
+related:
+  - "[[macOS]]"
+  - "[[Chrome]]"
+  - "[[Ghostty]]"
+  - "[[Raycast]]"
 status: complete
 ---
 

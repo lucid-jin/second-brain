@@ -1,6 +1,10 @@
 ---
 created: 2026-01-31
-related: [[macOS]], [[IntelliJ-WebStorm]], [[Chrome]], [[Ghostty]]
+related:
+  - "[[macOS]]"
+  - "[[IntelliJ-WebStorm]]"
+  - "[[Chrome]]"
+  - "[[Ghostty]]"
 status: complete
 ---
 
