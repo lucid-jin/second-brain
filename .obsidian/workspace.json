@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Shortcuts/IntelliJ-WebStorm.md",
+                "file": "03-Resources/Shortcuts/macOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntelliJ-WebStorm"
+              "title": "macOS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/Shortcuts/IntelliJ-WebStorm.md",
+                "file": "03-Resources/Shortcuts/macOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IntelliJ-WebStorm"
+              "title": "Backlinks for macOS"
             }
           },
           {
@@ -182,11 +182,11 @@
   },
   "active": "7086e23ad9f251c7",
   "lastOpenFiles": [
-    "03-Resources/Shortcuts/Chrome.md",
     "03-Resources/Shortcuts/Ghostty.md",
+    "03-Resources/Shortcuts/Chrome.md",
+    "03-Resources/Shortcuts/IntelliJ-WebStorm.md",
     "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
     "03-Resources/Shortcuts/Raycast.md",
-    "03-Resources/Shortcuts/IntelliJ-WebStorm.md",
     "03-Resources/Shortcuts/macOS.md",
     "03-Resources/Shortcuts",
     "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
