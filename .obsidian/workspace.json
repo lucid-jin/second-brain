@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
-                "mode": "source",
+                "file": "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-17-Claude-Code-Plugins"
+              "title": "2026-01-17-Obsidian-Knowledge-Management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
+                "file": "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-17-Claude-Code-Plugins"
+              "title": "Backlinks for 2026-01-17-Obsidian-Knowledge-Management"
             }
           },
           {
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,9 @@
   },
   "active": "7086e23ad9f251c7",
   "lastOpenFiles": [
+    "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
+    "00-Inbox/2026-01-17-Claude-Code-Skills.md",
+    "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
     "create a link.md",
     "Claude Code.md",
     "README.md",
@@ -193,14 +195,11 @@
     "01-Projects",
     "2026-01-17.md",
     "옵시디언.md",
-    "00-Inbox/2026-01-17-Claude-Skill-Structure.md",
     "00-Inbox/2026-01-17-Obsidian-Knowledge-Management.md",
     "Untitled.base",
     "00-Inbox/Obsidian-Knowledge-Management.md",
     "Untitled.canvas",
     "무제.base",
-    "00-Inbox/2026-01-17-Claude-Code-Skills.md",
-    "00-Inbox/2026-01-17-Claude-Code-Plugins.md",
     "00-Inbox",
     "환영합니다!.md",
     "무제 1.canvas",
