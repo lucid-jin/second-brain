@@ -1,0 +1,16 @@
+name: Trigger Blog Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger blog rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.BLOG_DEPLOY_TOKEN }}
+          repository: lucid-jin/lucid-jin.github.io
+          event-type: content-update
